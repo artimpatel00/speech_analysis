@@ -6,5 +6,5 @@ The data for the project was web scraped from the Federal Reserve Website [1] us
 
 The goal in building this model was to extract learned word embeddings to then see if certain words or phrases cluster together. Cosine similarity for word embeddings and vectors for phrases and entire speeches were used to find which words/phrases are most associated with higher VIX levels and recessionary times.
 
-[1] https://www.federalreserve.gov/newsevents/speeches.htm
+[1] https://www.federalreserve.gov/newsevents/speeches.htm \n
 [2] https://github.com/kathrinv/what-do-you-mean/blob/master/webscraping_and_data_preparation.ipynb
