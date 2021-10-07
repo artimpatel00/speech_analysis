@@ -17,7 +17,7 @@ path = 'chrome_driver_path'
 
 
 def get_frb_article_links(browser):
-
+    # grabbing links
     new_urls = []
     articles = browser.find_elements_by_class_name('itemTitle')
     for article in articles:
